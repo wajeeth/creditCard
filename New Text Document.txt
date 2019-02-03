@@ -1,0 +1,6 @@
+npm install -g create-react-app
+
+D: create folder creaditcard
+d:cd creaditcard
+	inside the credit card create folder name app
+create-react-app app
